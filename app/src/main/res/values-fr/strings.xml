@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">com.application</string>
+    <string name="enter_your_name">entrez_votre_nom</string>
+    <string name="next">suivante</string>
+    <string name="welcome">Bienvenue!</string>
+    <string name="don_t_call_me_that">Ne m\'appelle pas comme ça</string>
+    <string name="thank_you">Merci</string>
+</resources>
